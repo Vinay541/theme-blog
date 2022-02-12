@@ -1,19 +1,17 @@
 ---
-title: Cat Translation API
-emoji: 😺
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
-date: 2019-01-01T00:00:00.000Z
-summary: API to translate cat speech to english
+title: Time tracker in Excel using VBA
+emoji: ⏲
+metaDescription: This is a simple time tracker which gives the Time take Can you a VLOOKUP function and edit more if you do have basic knowledge in VBA and macros like me 😁.
+date: 
+summary: Tracks the time taken between two activities
 tags:
-  - golang
-  - graphQL
-  - aws
+  - Excel
 ---
 
 ### Task
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Qui deserunt sit dolor esse nisi. Culpa non exercitation amet irure. Consequat anim et sit labore. Nisi eiusmod aliqua dolor enim ullamco deserunt non.
 
 ### Solution
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Nostrud sunt laboris do qui ut reprehenderit. Velit dolor consectetur labore excepteur officia sunt ad voluptate nulla do eiusmod do sit cupidatat. Tempor culpa cupidatat elit consequat ea consequat anim dolor veniam consectetur laboris. Sunt elit consectetur aliquip esse cillum nisi sint quis excepteur et ea. Nisi culpa reprehenderit mollit nulla do aute voluptate..

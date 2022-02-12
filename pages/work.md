@@ -1,7 +1,6 @@
 ---
 title: Work
-subtitle: This is where you can describe your skills and talk about projects
-  you've worked on
+subtitle: My work Experience and Educational background
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
@@ -10,26 +9,30 @@ eleventyNavigation:
 ---
 ### 👩‍💻 Experience:
 
-#### Tesla
+#### Amazon
 
-**Senior Software Engineer** *(2019 - Current)*
+**Transaction Risk Investigator** *(2020 - Current)*
 
-* Collaborated with Elon Musk on 80,000 unique projects
-* Invented the Cyber Truck
+* Id nulla exercitation exercitation aliqua aliquip.
 
-#### Microsoft
+#### Skyfi labs
 
-**Software Engineer** *(2014 - 2019)*
+**Software Engineer** *(2019 - 2020)*
 
-* Maintained legacy Internet Explorer for 5 long years
+* Proident quis ipsum eu cillum sunt tempor esse cillum occaecat ut duis duis cillum ex.
 
 - - -
 
 ### 📚 Education:
 
-#### Harvard
+#### SR Engineering College
 
-**PhD Astronomy** *(2014 - 2015)*
+**B.Tech in Civil Engineering** *(2016-2019)*
 
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+* Esse anim duis eiusmod aliquip incididunt consectetur enim.
+
+#### Governement Polytechnic Warangal
+
+**Diploma in Civil Engineering** *(2013-2016)*
+
+* Esse anim duis eiusmod aliquip incididunt consectetur enim.
