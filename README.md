@@ -6,7 +6,7 @@ The super simple blog/portfolio is built with [Eleventy](https://www.11ty.io/) a
 
 <img width="1280" alt="homepage screenshot" src="/static/img/home-page.png">
 
-### <pre>🖥  [link to blog](https://https://vinay-raj-blog.netlify.app//)</pre>
+# <pre>[Blog link](https://vinay-raj-blog.netlify.app/)</pre>
 
 ## 🤔 Who Am I?
 A (acciedental) Civil Engineer who nows loves learning computer languages and methodologies by his own and love to code (still under progress). 
