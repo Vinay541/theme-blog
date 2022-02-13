@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4b841a40-b7a3-4273-8ce7-d968f146632c/deploy-status)](https://app.netlify.com/sites/vinay-raj-blog/deploys)
+
 # Welcome to my Blog Repo
 
 The super simple blog/portfolio is built with [Eleventy](https://www.11ty.io/) and [Netlify CMS](https://www.netlifycms.org/)
