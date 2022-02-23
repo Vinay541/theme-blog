@@ -1,6 +1,6 @@
 {
-  "title": "Hello, My name is Vinay Raj",
+  "title": "Hello Welcome to my blog My name is Vinay Raj",
   "image": "/static/img/civil-to-coder.png",
-  "subtitle": "This is my journey from a Civil Engineer graduate to Coder",
-  "image_alt": "Civil to Coder"
+  "subtitle": "A journal of courses and technologies I learnt using open sources",
+  "image_alt": "Coder_life"
 }
