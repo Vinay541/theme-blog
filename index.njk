@@ -24,15 +24,15 @@ section: home
   </div>
 
  
-  <h2>Projects</h2>
-  {% set projectlist = collections.project %}
-  {% include "components/projectlist.njk" %}
-
-
-  <hr>
   <h2>Learnings</h2>
   {% set postslist = collections.post %}
   {% set show_postslist_tags = false %}
   {% set limit = 3 %}
   {% include "components/postslist.njk" %}
+
+
+  <hr>
+  <h2>Projects</h2>
+  {% set projectlist = collections.project %}
+  {% include "components/projectlist.njk" %}
 </div>
