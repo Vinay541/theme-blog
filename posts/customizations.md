@@ -1,19 +1,15 @@
 ---
-title: Dolore sit aute laboris consectetur occaecat occaecat exercitation nulla
-  consequat Lorem.
-date: 2020-10-15T12:23:39.598Z
+title: Learning Microsoft Excel
+date: 2022-03-29T14:45:37.346Z
 author: Vinay Raj
-summary: Incididunt dolor cillum non nulla exercitation sunt esse amet cupidatat
-  eiusmod.
+summary: "We have many tools in the Microsoft Office to master, but Excel cannot
+  be mastered as there is always something left to learn with Excel. In this
+  series of learning, I will learn the advance Excel and will document with the
+  Help links. "
 tags:
-  - environment
-  - sport
+  - Microsoft Excel
+  - Data Science Tool
+  - ""
 ---
-**How do I change colors and fonts?**
-Proident culpa dolore enim excepteur. Qui do sit ipsum elit ea fugiat. Officia sunt velit ipsum irure occaecat anim sunt laboris consectetur. Enim deserunt cillum eu elit do. Quis deserunt consectetur quis labore officia commodo..
-
-**What about the page content?**
-Occaecat amet veniam culpa ea Lorem aliquip cillum enim nostrud id dolor. Consequat aliqua ex ullamco aute nisi deserunt elit laboris in occaecat officia cillum ullamco veniam. Nulla elit ut cillum quis aute ea cillum id consequat ullamco..
-
-**But how do I use the CMS?**
-Vinauhuiahnuiongd
+**Day 01:**
+Microsoft Excel is a very common tool used nowadays in any kind of business.......
