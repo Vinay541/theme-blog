@@ -10,8 +10,10 @@ tags:
 
 ### Task
 
-Qui deserunt sit dolor esse nisi. Culpa non exercitation amet irure. Consequat anim et sit labore. Nisi eiusmod aliqua dolor enim ullamco deserunt non.
+In my daily work, I used to deal with some Tasks which I need to complete with in a stipulated time. I was always curious Whether I was resolving the issue in the stipulated time or Am I overachieving or underachieving it. So with my basics skills on Microsoft Excel I made this tool (Excel sheet) for recoding the time 
 
 ### Solution
 
-Nostrud sunt laboris do qui ut reprehenderit. Velit dolor consectetur labore excepteur officia sunt ad voluptate nulla do eiusmod do sit cupidatat. Tempor culpa cupidatat elit consequat ea consequat anim dolor veniam consectetur laboris. Sunt elit consectetur aliquip esse cillum nisi sint quis excepteur et ea. Nisi culpa reprehenderit mollit nulla do aute voluptate..
+How did I make? 
+
+### References
