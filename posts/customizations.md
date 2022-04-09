@@ -9,7 +9,6 @@ summary: "We have many tools in the Microsoft Office to master, but Excel cannot
 tags:
   - Microsoft Excel
   - Data Science Tool
-  - ""
 ---
 **Day 01:**
 Microsoft Excel is a very common tool used nowadays in any kind of business.......
