@@ -17,4 +17,4 @@ Please fill the below form and I usually reply within 24 hours.\
 Thanks for viewing my blog!! 😊💕\
 \
 Alternatively you can ping me directly:\
-**[Facebook](https://www.facebook.com/vinayrajtheegala/) | [Instagram](https://www.instagram.com/knowvinay/) | [GitHub](https://github.com/Vinay541) | [Email](mailto:vinayrajtheegala@gmail.com)**
+**[Facebook](https://www.facebook.com/vinayrajtheegala/) | [Instagram](https://www.instagram.com/knowvinay/) | [GitHub](https://github.com/Vinay541) | [Email](mailto:vinayrajtheegala@gmail.com) | [Linked IN](https://www.linkedin.com/in/vinay-raj-5555abb0)** 
